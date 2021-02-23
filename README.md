@@ -14,3 +14,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+<p>
+  <img src="Images/welcome.jpg" hspace=40 width="250">
+  <img src="Images/signup.jpg" width="250">
+  <img src="Images/login.jpg" hspace=40 width="250">
+  </p>
+  
+## Gif
+<img src="gif/app recording.gif" width="250">
+
