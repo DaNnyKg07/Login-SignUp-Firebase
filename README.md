@@ -17,9 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 <p>
-  <img src="Images/welcome.jpg" hspace=40 width="250">
+  <img src="Images/welcome.jpg" hspace=30 width="250">
   <img src="Images/signup.jpg" width="250">
-  <img src="Images/login.jpg" hspace=40 width="250">
+  <img src="Images/login.jpg" hspace=30 width="250">
   </p>
   
 ## Gif
